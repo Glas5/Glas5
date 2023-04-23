@@ -1,5 +1,2 @@
 
-Languages: Java, Python, Rust
-
-
-Learning Haskell currently
+Java, Rust, Python
